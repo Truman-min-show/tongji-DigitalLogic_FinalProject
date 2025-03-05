@@ -1,5 +1,5 @@
 # tongji-DigitalLogic_FinalProject
-# 以下为使用ai总结，请自行参考
+# 以下为使用ai总结，请自行参考报告
 ### [项目名称] 数字逻辑课程大作业：基于DHT22的温度显示器系统
 
 ---
